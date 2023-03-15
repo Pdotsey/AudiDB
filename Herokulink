@@ -1,0 +1,11 @@
+https://prestons-audiodb.herokuapp.com/
+
+As you can see, deploying to Heroku was unsuccesful. Docker kept failing to build the web portion of the project when adjusting files for Heroku. 
+application is mostly functional on localhost. SQL file is located within initdata
+
+The commit named "
+closest. can search for artists, submir reviews and test cases, havin…
+…g problem with retrieivig reviews and filter"
+Is the one I know absolutely works on local host. All the later commits are untested 
+On local host as I was trying to fix a missing module error
+For deployment to heroku
